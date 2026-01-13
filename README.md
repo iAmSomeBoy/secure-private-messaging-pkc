@@ -21,4 +21,5 @@ No hacker, server, or third person should be able to read it.
 - You can read it in Bagla ... ... ... ... ... [story driven](story_concept.md)
 - [overviews](fundamentals.md), [usages](real_world.md)
 - Cautions ... ... ... ... ... ... ... ... ... ... ... ... [click](attacks_mitm.md)
+- [License](licence.md)
   
