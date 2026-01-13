@@ -3,11 +3,12 @@
 A MITM attack happens when a hacker secretly sits between
 two people communicating.
 
-If the sender uses the hacker's public key by mistake,
+# Wrong key
+If the sender uses the wrong keys/ hacker's public key by mistake,
 the hacker can:
 - Decrypt the message
 - Read it
 - Re-encrypt it
 - Forward it
 
-This is why **public key verification is mandatory**.
+This is why **public key verification is mandatory that means you need to use proper key**.
