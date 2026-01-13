@@ -123,13 +123,6 @@ Both sides think it's secure, but hacker is inside.
 ---
 
 ## 🎓 Why This Repo Is Useful
+✔ You get clear concept
 
-✔ Clear explanation  
-✔ Beginner friendly  
-✔ Interview & exam ready  
-✔ Great for GitHub profile  
-
----
-
-## 📜 License
-MIT License
+- Read the Bangla explanation [here](story_concept.md)
