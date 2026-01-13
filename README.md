@@ -21,5 +21,8 @@ No hacker, server, or third person should be able to read it.
 - You can read it in Bagla ... ... ... ... ... [story driven](story_concept.md)
 - [overviews](fundamentals.md), [usages](real_world.md)
 - Cautions ... ... ... ... ... ... ... ... ... ... ... ... [click](attacks_mitm.md)
-- [License](licence.md)
+- [License](license.md)
   
+---
+⭐ Give a <mark>star</mark> to this repository if you find it useful.  
+🍴 You are also encouraged to <mark>fork</mark> it and help it to being improved !
